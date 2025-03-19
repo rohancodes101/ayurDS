@@ -1,0 +1,1034 @@
+[
+  {
+    "ayurvedaName": "Vatavikara",
+    "englishName": "Disorders related to the Vata dosha."
+  },
+  {
+    "ayurvedaName": "Netraroga",
+    "englishName": "Eye disorders."
+  },
+  {
+    "ayurvedaName": "Malavarodha",
+    "englishName": "Constipation."
+  },
+  {
+    "ayurvedaName": "Sutikadosha",
+    "englishName": "Postpartum disorders."
+  },
+  {
+    "ayurvedaName": "Vrana",
+    "englishName": "Wounds or injuries."
+  },
+  {
+    "ayurvedaName": "Khalitya",
+    "englishName": "Hair loss."
+  },
+  {
+    "ayurvedaName": "Raktasrava",
+    "englishName": "Bleeding disorders."
+  },
+  {
+    "ayurvedaName": "Svarabheda",
+    "englishName": "Voice disorders."
+  },
+  {
+    "ayurvedaName": "Arbuda",
+    "englishName": "Tumors or growths."
+  },
+  {
+    "ayurvedaName": "Raktadushti",
+    "englishName": "Blood impurities."
+  },
+  {
+    "ayurvedaName": "Shulahara",
+    "englishName": "Pain management."
+  },
+  {
+    "ayurvedaName": "Vatarakta",
+    "englishName": "Gout."
+  },
+  {
+    "ayurvedaName": "Shirogatavata",
+    "englishName": "Headache due to Vata imbalance."
+  },
+  {
+    "ayurvedaName": "Rajodosha",
+    "englishName": "Menstrual disorders."
+  },
+  {
+    "ayurvedaName": "Vishuchika",
+    "englishName": "Dysentery."
+  },
+  {
+    "ayurvedaName": "Kastartava",
+    "englishName": "Painful menstruation."
+  },
+  {
+    "ayurvedaName": "Garadosha",
+    "englishName": "Leprosy."
+  },
+  {
+    "ayurvedaName": "Urahkshata",
+    "englishName": "Chest injury."
+  },
+  {
+    "ayurvedaName": "Vatavyadhi",
+    "englishName": "Diseases related to Vata dosha."
+  },
+  {
+    "ayurvedaName": "Dhatukshaya",
+    "englishName": "Tissue depletion."
+  },
+  {
+    "ayurvedaName": "Yonishula",
+    "englishName": "Pelvic pain."
+  },
+  {
+    "ayurvedaName": "Vidvibandha",
+    "englishName": "Constipation due to neurological causes."
+  },
+  {
+    "ayurvedaName": "Gudapaka",
+    "englishName": "Anal disorders."
+  },
+  {
+    "ayurvedaName": "Shirahshula",
+    "englishName": "Headache."
+  },
+  {
+    "ayurvedaName": "Mahavataroga",
+    "englishName": "Severe skin diseases."
+  },
+  {
+    "ayurvedaName": "Hriddaha",
+    "englishName": "Heartburn."
+  },
+  {
+    "ayurvedaName": "Shvitra",
+    "englishName": "Leucoderma or vitiligo."
+  },
+  {
+    "ayurvedaName": "Amavata",
+    "englishName": "Rheumatoid arthritis."
+  },
+  {
+    "ayurvedaName": "Rajodushti",
+    "englishName": "Menstrual disorders."
+  },
+  {
+    "ayurvedaName": "Shiroroga",
+    "englishName": "Head disorders."
+  },
+  {
+    "ayurvedaName": "Dushtavrana",
+    "englishName": "Infected wounds."
+  },
+  {
+    "ayurvedaName": "Chhardi",
+    "englishName": "Vomiting."
+  },
+  {
+    "ayurvedaName": "Nadivrana",
+    "englishName": "Sinusitis."
+  },
+  {
+    "ayurvedaName": "Raktarsha",
+    "englishName": "Hemorrhoids."
+  },
+  {
+    "ayurvedaName": "Indralupta",
+    "englishName": "Alopecia areata."
+  },
+  {
+    "ayurvedaName": "Yoniroga",
+    "englishName": "Gynecological disorders."
+  },
+  {
+    "ayurvedaName": "Balaroga",
+    "englishName": "Pediatric diseases."
+  },
+  {
+    "ayurvedaName": "Hriddrava",
+    "englishName": "Cardiac effusion."
+  },
+  {
+    "ayurvedaName": "Bhagandar",
+    "englishName": "Fistula-in-ano."
+  },
+  {
+    "ayurvedaName": "Vranashotha",
+    "englishName": "Swelling of wounds."
+  },
+  {
+    "ayurvedaName": "Ardhavbhedaka",
+    "englishName": "Migraine."
+  },
+  {
+    "ayurvedaName": "Granthi",
+    "englishName": "Cyst or tumor."
+  },
+  {
+    "ayurvedaName": "Sandhigatavata",
+    "englishName": "Osteoarthritis."
+  },
+  {
+    "ayurvedaName": "Agnidagdha",
+    "englishName": "Burnt by digestive fire (related to digestion)."
+  },
+  {
+    "ayurvedaName": "Manodvega",
+    "englishName": "Mental disorders."
+  },
+  {
+    "ayurvedaName": "Pittaroga",
+    "englishName": "Diseases related to Pitta dosha."
+  },
+  {
+    "ayurvedaName": "Mutraghata",
+    "englishName": "Urinary obstruction."
+  },
+  {
+    "ayurvedaName": "Suryavarta",
+    "englishName": "Sunstroke."
+  },
+  {
+    "ayurvedaName": "Shula",
+    "englishName": "Abdominal pain."
+  },
+  {
+    "ayurvedaName": "Mukhdaurgandhya",
+    "englishName": "Foul smell from the mouth."
+  },
+  {
+    "ayurvedaName": "Vatajashula",
+    "englishName": "Abdominal pain due to Vata dosha."
+  },
+  {
+    "ayurvedaName": "Urustambha",
+    "englishName": "Thigh stiffness."
+  },
+  {
+    "ayurvedaName": "Anidra",
+    "englishName": "Insomnia."
+  },
+  {
+    "ayurvedaName": "Anaha",
+    "englishName": "Bloating."
+  },
+  {
+    "ayurvedaName": "Sandhigraha",
+    "englishName": "Joint stiffness."
+  },
+  {
+    "ayurvedaName": "Sandhivedana",
+    "englishName": "Joint pain."
+  },
+  {
+    "ayurvedaName": "Padadaha",
+    "englishName": "Foot burning sensation."
+  },
+  {
+    "ayurvedaName": "Amvata",
+    "englishName": "Rheumatism."
+  },
+  {
+    "ayurvedaName": "Khalli",
+    "englishName": "Abscess."
+  },
+  {
+    "ayurvedaName": "Kshata",
+    "englishName": "Injury."
+  },
+  {
+    "ayurvedaName": "Gandamala",
+    "englishName": "Tonsillitis."
+  },
+  {
+    "ayurvedaName": "Kushtha",
+    "englishName": "Skin diseases."
+  },
+  {
+    "ayurvedaName": "Manoroga",
+    "englishName": "Mental disorders."
+  },
+  {
+    "ayurvedaName": "Manodosha",
+    "englishName": "Psychological imbalances."
+  },
+  {
+    "ayurvedaName": "Atisara",
+    "englishName": "Diarrhea."
+  },
+  {
+    "ayurvedaName": "Hikka",
+    "englishName": "Hiccups."
+  },
+  {
+    "ayurvedaName": "Dadru",
+    "englishName": "Fungal skin infections."
+  },
+  {
+    "ayurvedaName": "Arma",
+    "englishName": "Filariasis."
+  },
+  {
+    "ayurvedaName": "Agnimandhya",
+    "englishName": "Digestive weakness."
+  },
+  {
+    "ayurvedaName": "Pittajaroga",
+    "englishName": "Diseases related to Pitta dosha."
+  },
+  {
+    "ayurvedaName": "Praseka",
+    "englishName": "Excessive salivation."
+  },
+  {
+    "ayurvedaName": "Medoroga",
+    "englishName": "Disorders related to fat tissue."
+  },
+  {
+    "ayurvedaName": "Raktajroga",
+    "englishName": "Diseases of blood."
+  },
+  {
+    "ayurvedaName": "Agnimandya",
+    "englishName": "Digestive weakness."
+  },
+  {
+    "ayurvedaName": "Malabandha",
+    "englishName": "Constipation due to fecal impaction."
+  },
+  {
+    "ayurvedaName": "Raktapradara",
+    "englishName": "Menorrhagia (excessive menstrual bleeding)."
+  },
+  {
+    "ayurvedaName": "Mutrakricchra",
+    "englishName": "Dysuria (painful urination)."
+  },
+  {
+    "ayurvedaName": "Rajayakshma",
+    "englishName": "Tuberculosis."
+  },
+  {
+    "ayurvedaName": "Daha",
+    "englishName": "Burning sensation."
+  },
+  {
+    "ayurvedaName": "Pliharoga",
+    "englishName": "Splenic disorders."
+  },
+  {
+    "ayurvedaName": "Raktapitta",
+    "englishName": "Bleeding disorders related to Pitta dosha."
+  },
+  {
+    "ayurvedaName": "Medhya",
+    "englishName": "Enhancing intellect."
+  },
+  {
+    "ayurvedaName": "Manodaurbalya",
+    "englishName": "Mental weakness."
+  },
+  {
+    "ayurvedaName": "Ojakshya",
+    "englishName": "Immune deficiency."
+  },
+  {
+    "ayurvedaName": "Tvakroga",
+    "englishName": "Skin diseases."
+  },
+  {
+    "ayurvedaName": "Mukhapaka",
+    "englishName": "Oral ulcers."
+  },
+  {
+    "ayurvedaName": "Hridya",
+    "englishName": "Cardiotonic."
+  },
+  {
+    "ayurvedaName": "Udara",
+    "englishName": "Abdominal disorders."
+  },
+  {
+    "ayurvedaName": "Badhirya",
+    "englishName": "Deafness."
+  },
+  {
+    "ayurvedaName": "Kasa",
+    "englishName": "Cough."
+  },
+  {
+    "ayurvedaName": "Vatroga",
+    "englishName": "Diseases related to Vata dosha."
+  },
+  {
+    "ayurvedaName": "Udavarta",
+    "englishName": "Reverse movement of Vata."
+  },
+  {
+    "ayurvedaName": "Shirokampa",
+    "englishName": "Tremors of the head."
+  },
+  {
+    "ayurvedaName": "Svarbheda",
+    "englishName": "Hoarseness of voice."
+  },
+  {
+    "ayurvedaName": "Kamala",
+    "englishName": "Jaundice."
+  },
+  {
+    "ayurvedaName": "Trikshula",
+    "englishName": "Abdominal colic."
+  },
+  {
+    "ayurvedaName": "Budhidaurbalya",
+    "englishName": "Mental weakness."
+  },
+  {
+    "ayurvedaName": "Mutrakriccha",
+    "englishName": "Difficulty in urination."
+  },
+  {
+    "ayurvedaName": "Ajirna",
+    "englishName": "Indigestion."
+  },
+  {
+    "ayurvedaName": "Vicharchika",
+    "englishName": "Eczema."
+  },
+  {
+    "ayurvedaName": "Udarashula",
+    "englishName": "Abdominal pain."
+  },
+  {
+    "ayurvedaName": "Keshapata",
+    "englishName": "Hair fall."
+  },
+  {
+    "ayurvedaName": "Manyastambha",
+    "englishName": "Muscle stiffness."
+  },
+  {
+    "ayurvedaName": "Amatisara",
+    "englishName": "Chronic diarrhea."
+  },
+  {
+    "ayurvedaName": "Halimaka",
+    "englishName": "Cirrhosis of the liver."
+  },
+  {
+    "ayurvedaName": "Charmkila",
+    "englishName": "Skin tags."
+  },
+  {
+    "ayurvedaName": "Raktanishthivana",
+    "englishName": "Blood vessel disorders."
+  },
+  {
+    "ayurvedaName": "Shukrameha",
+    "englishName": "Seminal disorders."
+  },
+  {
+    "ayurvedaName": "Jara",
+    "englishName": "Aging."
+  },
+  {
+    "ayurvedaName": "Yonidosha",
+    "englishName": "Vaginal disorders."
+  },
+  {
+    "ayurvedaName": "Sukradosha",
+    "englishName": "Semen disorders."
+  },
+  {
+    "ayurvedaName": "Avabahuka",
+    "englishName": "Frozen shoulder."
+  },
+  {
+    "ayurvedaName": "Smritibhransha",
+    "englishName": "Memory loss."
+  },
+  {
+    "ayurvedaName": "Bhutonmada",
+    "englishName": "Psychic disorders."
+  },
+  {
+    "ayurvedaName": "Parshvashula",
+    "englishName": "Side pain."
+  },
+  {
+    "ayurvedaName": "Apasmara",
+    "englishName": "Epilepsy."
+  },
+  {
+    "ayurvedaName": "Kotha",
+    "englishName": "Cough."
+  },
+  {
+    "ayurvedaName": "Udvega",
+    "englishName": "Anxiety."
+  },
+  {
+    "ayurvedaName": "Ama",
+    "englishName": "Toxins or undigested food."
+  },
+  {
+    "ayurvedaName": "Urdhvajatrugataroga",
+    "englishName": "Upper respiratory tract disorders."
+  },
+  {
+    "ayurvedaName": "Pakshaghata",
+    "englishName": "Hemiplegia."
+  },
+  {
+    "ayurvedaName": "Panguvata",
+    "englishName": "Hemiplegia."
+  },
+  {
+    "ayurvedaName": "Shvasa",
+    "englishName": "Asthma."
+  },
+  {
+    "ayurvedaName": "Hanustambha",
+    "englishName": "Facial paralysis."
+  },
+  {
+    "ayurvedaName": "Asthiruja",
+    "englishName": "Joint pain."
+  },
+  {
+    "ayurvedaName": "Vandhyaroga",
+    "englishName": "Infertility."
+  },
+  {
+    "ayurvedaName": "Amadosha",
+    "englishName": "Impaired digestion."
+  },
+  {
+    "ayurvedaName": "Smritikshaya",
+    "englishName": "Memory decline."
+  },
+  {
+    "ayurvedaName": "Pakshaghat",
+    "englishName": "Paralysis."
+  },
+  {
+    "ayurvedaName": "Gulma",
+    "englishName": "Abdominal tumor or mass."
+  },
+  {
+    "ayurvedaName": "Arochaka",
+    "englishName": "Loss of appetite."
+  },
+  {
+    "ayurvedaName": "Netravrana",
+    "englishName": "Eye injury."
+  },
+  {
+    "ayurvedaName": "Pradara",
+    "englishName": "Leucorrhea."
+  },
+  {
+    "ayurvedaName": "Karnagutha",
+    "englishName": "Ear infection."
+  },
+  {
+    "ayurvedaName": "Karnasrava",
+    "englishName": "Ear discharge."
+  },
+  {
+    "ayurvedaName": "Visavikara",
+    "englishName": "Poisonous conditions."
+  },
+  {
+    "ayurvedaName": "Mahakushtha",
+    "englishName": "Severe skin diseases."
+  },
+  {
+    "ayurvedaName": "Rajorodha",
+    "englishName": "Menstrual blockage."
+  },
+  {
+    "ayurvedaName": "Yonibhransha",
+    "englishName": "Vaginal prolapse."
+  },
+  {
+    "ayurvedaName": "Gridhrasi",
+    "englishName": "Sciatica."
+  },
+  {
+    "ayurvedaName": "Vranaropana",
+    "englishName": "Wound healing."
+  },
+  {
+    "ayurvedaName": "Kushta",
+    "englishName": "Skin disorders."
+  },
+  {
+    "ayurvedaName": "Palitya",
+    "englishName": "Premature graying of hair."
+  },
+  {
+    "ayurvedaName": "Keshashata",
+    "englishName": "Baldness."
+  },
+  {
+    "ayurvedaName": "Garavisha",
+    "englishName": "Poisoning by heavy metals."
+  },
+  {
+    "ayurvedaName": "Balya",
+    "englishName": "Health-promoting."
+  },
+  {
+    "ayurvedaName": "Apsmara",
+    "englishName": "Epilepsy."
+  },
+  {
+    "ayurvedaName": "Amlapitta",
+    "englishName": "Hyperacidity."
+  },
+  {
+    "ayurvedaName": "Pratishyaya",
+    "englishName": "Common cold."
+  },
+  {
+    "ayurvedaName": "Madhumeha",
+    "englishName": "Diabetes."
+  },
+  {
+    "ayurvedaName": "Aruchi",
+    "englishName": "Anorexia."
+  },
+  {
+    "ayurvedaName": "Shwetapradara",
+    "englishName": "White discharge (leucorrhea)."
+  },
+  {
+    "ayurvedaName": "Pakshavadha",
+    "englishName": "Hemiplegia."
+  },
+  {
+    "ayurvedaName": "Karnanada",
+    "englishName": "Earache."
+  },
+  {
+    "ayurvedaName": "Vataraktaruja",
+    "englishName": "Gout."
+  },
+  {
+    "ayurvedaName": "Yonivyapat",
+    "englishName": "Vaginal prolapse."
+  },
+  {
+    "ayurvedaName": "Shotha",
+    "englishName": "Edema."
+  },
+  {
+    "ayurvedaName": "Grahaniroga",
+    "englishName": "Irritable bowel syndrome."
+  },
+  {
+    "ayurvedaName": "Apachi",
+    "englishName": "Herpes."
+  },
+  {
+    "ayurvedaName": "Prameha",
+    "englishName": "Urinary disorders."
+  },
+  {
+    "ayurvedaName": "Jvara",
+    "englishName": "Fever."
+  },
+  {
+    "ayurvedaName": "Bhrama",
+    "englishName": "Vertigo."
+  },
+  {
+    "ayurvedaName": "Trisha",
+    "englishName": "Thirst."
+  },
+  {
+    "ayurvedaName": "Hridroga",
+    "englishName": "Heart disease."
+  },
+  {
+    "ayurvedaName": "Vatashonita",
+    "englishName": "Gouty arthritis with bleeding."
+  },
+  {
+    "ayurvedaName": "Garbhadosha",
+    "englishName": "Fetal abnormalities."
+  },
+  {
+    "ayurvedaName": "Smritidaurbalya",
+    "englishName": "Memory weakness."
+  },
+  {
+    "ayurvedaName": "Balagraha",
+    "englishName": "Malnutrition."
+  },
+  {
+    "ayurvedaName": "Visarpa",
+    "englishName": "Erysipelas."
+  },
+  {
+    "ayurvedaName": "Drishtimandya",
+    "englishName": "Visual impairment."
+  },
+  {
+    "ayurvedaName": "Khanja",
+    "englishName": "Lameness."
+  },
+  {
+    "ayurvedaName": "Kandu",
+    "englishName": "Itching."
+  },
+  {
+    "ayurvedaName": "Daurbalya",
+    "englishName": "Weakness."
+  },
+  {
+    "ayurvedaName": "Vataroga",
+    "englishName": "Diseases related to Vata dosha."
+  },
+  {
+    "ayurvedaName": "Drishtidaurbalya",
+    "englishName": "Weak vision."
+  },
+  {
+    "ayurvedaName": "Amashula",
+    "englishName": "Abdominal colic due to Ama (toxins)."
+  },
+  {
+    "ayurvedaName": "Kustha",
+    "englishName": "Leprosy."
+  },
+  {
+    "ayurvedaName": "Vibandha",
+    "englishName": "Constipation."
+  },
+  {
+    "ayurvedaName": "Sharkara",
+    "englishName": "Pemphigus."
+  },
+  {
+    "ayurvedaName": "Karshya",
+    "englishName": "Emaciation."
+  },
+  {
+    "ayurvedaName": "Krichhrartav",
+    "englishName": "Painful menstruation."
+  },
+  {
+    "ayurvedaName": "Ashmari",
+    "englishName": "Kidney stones."
+  },
+  {
+    "ayurvedaName": "Karnashula",
+    "englishName": "Ear pain."
+  },
+  {
+    "ayurvedaName": "Udararoga",
+    "englishName": "Abdominal disorders."
+  },
+  {
+    "ayurvedaName": "Klaivya",
+    "englishName": "Leprosy."
+  },
+  {
+    "ayurvedaName": "Angasthambha",
+    "englishName": "Body stiffness."
+  },
+  {
+    "ayurvedaName": "Krimi",
+    "englishName": "Worm infestations."
+  },
+  {
+    "ayurvedaName": "Unmada",
+    "englishName": "Insanity."
+  },
+  {
+    "ayurvedaName": "Jirnajvara",
+    "englishName": "Chronic fever."
+  },
+  {
+    "ayurvedaName": "Shosha",
+    "englishName": "Emaciation."
+  },
+  {
+    "ayurvedaName": "Kshatakshina",
+    "englishName": "Wasting syndrome."
+  },
+  {
+    "ayurvedaName": "Katishula",
+    "englishName": "Backache."
+  },
+  {
+    "ayurvedaName": "Parinamashula",
+    "englishName": "Colicky pain."
+  },
+  {
+    "ayurvedaName": "Sarpadamsha",
+    "englishName": "Snakebite."
+  },
+  {
+    "ayurvedaName": "Pramehapidika",
+    "englishName": "Boils in urinary tract disorders."
+  },
+  {
+    "ayurvedaName": "Vatakaphajaroga",
+    "englishName": "Diseases related to Vata and Kapha dosha."
+  },
+  {
+    "ayurvedaName": "Janghashula",
+    "englishName": "Calf pain."
+  },
+  {
+    "ayurvedaName": "Svarakshaya",
+    "englishName": "Voice loss."
+  },
+  {
+    "ayurvedaName": "Pandu",
+    "englishName": "Anemia."
+  },
+  {
+    "ayurvedaName": "Mandagni",
+    "englishName": "Impaired digestion."
+  },
+  {
+    "ayurvedaName": "Trishna",
+    "englishName": "Thirst."
+  },
+  {
+    "ayurvedaName": "Sthaulya",
+    "englishName": "Obesity."
+  },
+  {
+    "ayurvedaName": "Timira",
+    "englishName": "Blindness."
+  },
+  {
+    "ayurvedaName": "Prishashula",
+    "englishName": "Side pain."
+  },
+  {
+    "ayurvedaName": "Asthibhagna",
+    "englishName": "Bone fractures."
+  },
+  {
+    "ayurvedaName": "Vidagdhajirna",
+    "englishName": "Digestive disorders causing burning sensation."
+  },
+  {
+    "ayurvedaName": "Vidradhi",
+    "englishName": "Abscess."
+  },
+  {
+    "ayurvedaName": "Dantaroga",
+    "englishName": "Dental diseases."
+  },
+  {
+    "ayurvedaName": "Amajirna",
+    "englishName": "Indigestion due to Ama (toxins)."
+  },
+  {
+    "ayurvedaName": "Vandhyatva",
+    "englishName": "Infertility."
+  },
+  {
+    "ayurvedaName": "Grahani",
+    "englishName": "Irritable bowel syndrome."
+  },
+  {
+    "ayurvedaName": "Balakshaya",
+    "englishName": "Loss of strength in children."
+  },
+  {
+    "ayurvedaName": "Kshudrakushtha",
+    "englishName": "Minor skin disorders."
+  },
+  {
+    "ayurvedaName": "Sutikaroga",
+    "englishName": "Postpartum disorders."
+  },
+  {
+    "ayurvedaName": "Asthichyuti",
+    "englishName": "Bone atrophy."
+  },
+  {
+    "ayurvedaName": "Vrishya",
+    "englishName": "Aphrodisiac."
+  },
+  {
+    "ayurvedaName": "Urushula",
+    "englishName": "Thigh pain."
+  },
+  {
+    "ayurvedaName": "Angavedana",
+    "englishName": "Body pain."
+  },
+  {
+    "ayurvedaName": "Pravahika",
+    "englishName": "Dysentery."
+  },
+  {
+    "ayurvedaName": "Pangu",
+    "englishName": "Limping."
+  },
+  {
+    "ayurvedaName": "Pama",
+    "englishName": "Filariasis."
+  },
+  {
+    "ayurvedaName": "Galaroga",
+    "englishName": "Goiter."
+  },
+  {
+    "ayurvedaName": "Kampa",
+    "englishName": "Tremors."
+  },
+  {
+    "ayurvedaName": "Abhishyanda",
+    "englishName": "Ophthalmia."
+  },
+  {
+    "ayurvedaName": "Pliha",
+    "englishName": "Spleen disorders."
+  },
+  {
+    "ayurvedaName": "Udarda",
+    "englishName": "Urticaria."
+  },
+  {
+    "ayurvedaName": "Vidarika",
+    "englishName": "Herpes."
+  },
+  {
+    "ayurvedaName": "Yakshma",
+    "englishName": "Tuberculosis."
+  },
+  {
+    "ayurvedaName": "Adhamana",
+    "englishName": "Flatulence."
+  },
+  {
+    "ayurvedaName": "Moha",
+    "englishName": "Delusion."
+  },
+  {
+    "ayurvedaName": "Striroga",
+    "englishName": "Gynecological disorders."
+  },
+  {
+    "ayurvedaName": "Parinamshula",
+    "englishName": "Colicky pain due to diet."
+  },
+  {
+    "ayurvedaName": "Somaroga",
+    "englishName": "Diseases related to the moon (lunar disorders)."
+  },
+  {
+    "ayurvedaName": "Bhagandara",
+    "englishName": "Fistula-in-ano."
+  },
+  {
+    "ayurvedaName": "Raktatisara",
+    "englishName": "Blood diarrhea."
+  },
+  {
+    "ayurvedaName": "Krimiroga",
+    "englishName": "Worm infestations."
+  },
+  {
+    "ayurvedaName": "Hritshula",
+    "englishName": "Chest pain."
+  },
+  {
+    "ayurvedaName": "Vriddhiroga",
+    "englishName": "Aging-related diseases."
+  },
+  {
+    "ayurvedaName": "Sandhigatvata",
+    "englishName": "Joint disorders due to Vata dosha."
+  },
+  {
+    "ayurvedaName": "Katigraha",
+    "englishName": "Lumbago."
+  },
+  {
+    "ayurvedaName": "Visuchika",
+    "englishName": "Dysentery."
+  },
+  {
+    "ayurvedaName": "Mutrashmari",
+    "englishName": "Kidney stones."
+  },
+  {
+    "ayurvedaName": "Murchha",
+    "englishName": "Syncope."
+  },
+  {
+    "ayurvedaName": "Rasayana",
+    "englishName": "Rejuvenation."
+  },
+  {
+    "ayurvedaName": "Hriddaurbalya",
+    "englishName": "Heart weakness."
+  },
+  {
+    "ayurvedaName": "Paktishula",
+    "englishName": "Colicky pain due to digestion."
+  },
+  {
+    "ayurvedaName": "Bahushosha",
+    "englishName": "Severe emaciation."
+  },
+  {
+    "ayurvedaName": "Mutrasthila",
+    "englishName": "Urinary retention."
+  },
+  {
+    "ayurvedaName": "Shitapitta",
+    "englishName": "Urticaria."
+  },
+  {
+    "ayurvedaName": "Aptantrak",
+    "englishName": "Snakebite."
+  },
+  {
+    "ayurvedaName": "Arsha",
+    "englishName": "Hemorrhoids."
+  },
+  {
+    "ayurvedaName": "Jvaratisara",
+    "englishName": "Febrile dysentery."
+  },
+  {
+    "ayurvedaName": "Ardita",
+    "englishName": "Facial paralysis."
+  },
+  {
+    "ayurvedaName": "Pinasa",
+    "englishName": "Sinusitis."
+  },
+  {
+    "ayurvedaName": "Galaganda",
+    "englishName": "Goiter."
+  },
+  {
+    "ayurvedaName": "Asrigdara",
+    "englishName": "Menorrhagia."
+  },
+  {
+    "ayurvedaName": "Mutraroga",
+    "englishName": "Urinary disorders."
+  },
+  {
+    "ayurvedaName": "Kshaya",
+    "englishName": "Debility."
+  }
+]
