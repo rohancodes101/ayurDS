@@ -117,6 +117,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import React, { useState } from "react";
 import { FaLeaf, FaBars, FaTimes } from "react-icons/fa";
 import { motion } from "framer-motion";
@@ -168,7 +189,7 @@ const NavBar = () => {
             to="/knowmyhealth"
             className="px-5 py-2 bg-[#2E8B57] text-white rounded-full hover:bg-[#FFD700] hover:text-[#2E8B57] transition-all duration-300"
           >
-            Health Prediction
+            Discover Remedies
           </Link>
           <Link
             to="/resources"
@@ -199,7 +220,7 @@ const NavBar = () => {
             className="px-5 py-2 bg-[#2E8B57] text-white rounded-full text-center hover:bg-[#FFD700] hover:text-[#2E8B57] transition-all duration-300"
             onClick={toggleMenu}
           >
-            Health Prediction
+            Discover Remedies
           </Link>
           <Link
             to="/resources"
